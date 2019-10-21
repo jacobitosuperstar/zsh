@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/zsh](https://draculatheme.com/zsh).
+Just copy and paste the contents of this .zshrc file to yours.
 
 ## Configuration
 ### Time Segment
